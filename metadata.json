@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Virtual Try-On Studio version 2",
+  "description": "An interactive virtual dressing room that uses your camera and AI to let you try on clothes in real-time. Select a garment from the virtual wardrobe, and see it fitted onto your live image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

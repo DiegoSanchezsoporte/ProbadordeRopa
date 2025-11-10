@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": 1,
+    "name": "Classic Blue T-Shirt",
+    "src": "/database/images/tshirt-blue.png",
+    "category": "Tops"
+  },
+  {
+    "id": 2,
+    "name": "Red Plaid Shirt",
+    "src": "/database/images/plaid-shirt.png",
+    "category": "Tops"
+  },
+  {
+    "id": 3,
+    "name": "Denim Jacket",
+    "src": "/database/images/denim-jacket.png",
+    "category": "Outerwear"
+  },
+  {
+    "id": 4,
+    "name": "Leather Biker Jacket",
+    "src": "/database/images/leather-jacket.png",
+    "category": "Outerwear"
+  },
+  {
+    "id": 5,
+    "name": "Gray Hoodie",
+    "src": "/database/images/hoodie-gray.png",
+    "category": "Outerwear"
+  },
+  {
+    "id": 6,
+    "name": "Floral Summer Dress",
+    "src": "/database/images/summer-dress.png",
+    "category": "Dresses"
+  }
+]
